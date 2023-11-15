@@ -1,0 +1,122 @@
+[
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "ladder",
+        "target": 7
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "ladder",
+        "target": 21
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "snake",
+        "target": 8
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "ladder",
+        "target": 26
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "snake",
+        "target": 11
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "snake",
+        "target": 20
+    },
+    {
+        "type": "normal",
+        "target": null
+    },
+    {
+        "type": "normal",
+        "target": null
+    }
+]  
