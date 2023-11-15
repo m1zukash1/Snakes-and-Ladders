@@ -36,16 +36,13 @@ class Game:
         match self.board.at(where).type:
             case "normal":
                 print("Special type of the tile is normal. Player stays here")
-                #player.position = where #TODO
                 self.set_position(player, where)
             case "ladder":
                 print("Special type of the tile is ladder. Player goes up to ", self.board.at(where).target, " position")
-                #player.position = self.board.at(where).target #TODO
                 self.set_position(player, self.board.at(where).target)
                 pass
             case "snake":
                 print("Special type of the tile is snake. Player goes down to ", self.board.at(where).target, " position")
-                #player.position = self.board.at(where).target #TODO
                 self.set_position(player, self.board.at(where).target)
                 pass
         
