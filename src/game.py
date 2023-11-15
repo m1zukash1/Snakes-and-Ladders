@@ -20,7 +20,7 @@ class Game:
     def turn(self):
         player: Player = self.board.player_queue.pop(0) #Get player from the start of the queue
 
-        dice_number = random.randint(1, 3)
+        dice_number = random.randint(1, 6)
         where = player.position + dice_number
 
         print("Player id: ", player.id)
