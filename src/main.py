@@ -3,7 +3,7 @@ import copy
 from game import Game
 from board_positions import board_positions
 
-player_count = 2
+player_count = 3
 
 pygame.init()
 game: Game = Game(player_count)
